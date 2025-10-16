@@ -17,6 +17,7 @@ This repository showcases how to use **Terraform** to manage **AWS infrastructur
 ## 📁 Project Structure
 
 iac-with-terraform-aws/
+
 ├── modules/ # Reusable modules (vpc, ec2, s3, etc.)
 
 ├── main/ # Main Terraform configurations (entry point)
